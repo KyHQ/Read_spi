@@ -1,0 +1,14 @@
+-rootPath
+D:/QT_DEVELOPMENT/Udemy_Intermediate/Read_Data_Mock_Project
+-cmake-output
+-output-file
+D:/QT_DEVELOPMENT/Udemy_Intermediate/Read_Data_Mock_Project/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appRead_Data_Mock_Project.cmake
+-importPath
+D:/QT_DEVELOPMENT/Udemy_Intermediate/Read_Data_Mock_Project/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/Read_Data_Mock_Project
+-importPath
+D:/QT_DEVELOPMENT/Udemy_Intermediate/Read_Data_Mock_Project/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug
+-importPath
+C:/Qt/6.7.0/msvc2019_64/./qml
+-qrcFiles
+D:/QT_DEVELOPMENT/Udemy_Intermediate/Read_Data_Mock_Project/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/.rcc/qmake_Read_Data_Mock_Project.qrc
+D:/QT_DEVELOPMENT/Udemy_Intermediate/Read_Data_Mock_Project/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/.rcc/appRead_Data_Mock_Project_raw_qml_0.qrc

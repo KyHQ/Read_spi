@@ -1,0 +1,68 @@
+[
+    {
+        "classes": [
+            {
+                "className": "DataManager",
+                "methods": [
+                    {
+                        "access": "public",
+                        "name": "updateData",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "runExecutable",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "masterData",
+                        "notify": "dataChanged",
+                        "read": "masterData",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "name": "slaveData",
+                        "notify": "dataChanged",
+                        "read": "slaveData",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "DataManager",
+                "signals": [
+                    {
+                        "access": "public",
+                        "name": "dataChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "datamanager.h",
+        "outputRevision": 68
+    }
+]

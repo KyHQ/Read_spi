@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Read_Data_Mock_Project/">
+    <file alias="Main.qml">D:/QT_DEVELOPMENT/Udemy_Intermediate/Read_Data_Mock_Project/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,5 @@
+module Read_Data_Mock_Project
+typeinfo appRead_Data_Mock_Project.qmltypes
+prefer :/Read_Data_Mock_Project/
+Main 1.0 Main.qml
+
